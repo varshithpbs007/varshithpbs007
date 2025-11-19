@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varshithpbs007
-- 👀 I’m interested in ...Electronics and Communication Engineering
+- 👀 I’m interested in ...ML, DL and Electronics and Communication Engineering
 - 🌱 I’m currently learning ...Deep Learning
 - 💞️ I’m looking to collaborate on ...Project related ECE and Deep Learning 
 - 📫 How to reach me ...bsvarshithpudi@gmail.com
